@@ -1,0 +1,654 @@
+0|||||
+1|PeGold Plated Cocktail Statement Ringrl And Malachite Bracelet 14k Gold|pearl-and-malachite-bracelet-14k-gold||14k Gold|
+2|Diamond Half-Hoop 14k Gold|diamond-half-hoop-14k-gold||14k Gold|
+3|Diamond Half-Hoop 14k Gold|large-diamond-half-hoop-14k-gold||14k Gold|
+4|Half-Hoop 14k Gold|half-hoop-14k-gold||14k Gold|
+5|Half-Hoop 14k Gold|large-half-hoop-14k-gold||14k Gold|
+6|Triple Surface Hoops 14k Gold|triple-surface-hoops-14k-gold||14k Gold|
+7|Diamond Double Half-Hoop 14k Gold|diamond-double-half-hoop-14k-gold||14k Gold|
+8|Diamond Double Half-Hoop 14k Gold|full-diamond-double-half-hoop-14k-gold||14k Gold|
+9|Diamond Double Half Hoop 14k Gold|half-diamond-double-half-hoop-14k-gold||14k Gold|
+10|Double Circle Diamond Ear Studs 14k Gold|double-circle-diamond-ear-studs-14k-gold||14k Gold|
+11|Elegant Diamond Bracelet 14k Gold|elegant-diamond-bracelet-14k-gold||14k Gold|
+12|Elegant Diamond Necklace 14k Gold|elegant-diamond-necklace-14k-gold||14k Gold|
+13|Double Circle Necklace 14k Gold|double-circle-necklace-14k-gold||14k Gold|
+14|Double Half-Hoop 14k Gold|double-half-hoop-14k-gold||14k Gold|
+15|Double Circle Diamond Necklace 14K Gold|double-circle-diamond-necklace-14k-gold||14k Gold|
+16|Minimal De Luxe Stacked Ring 14k Gold|minimal-de-luxe-stacked-ring-14k-gold||14k Gold|
+17|Halo Pendant|halo-pendant||White|
+18|Pav\u00e9 Heart Pendant|pave-heart-pendant||Gold Plated Silver|
+19|Luxe Crossover Ring|statement-crossover-ring-with-zirconia-stones||Sterling Silver|
+20|Contemporary Statement Ring|statement-ring-with-oval-and-round-stones||48|
+21|Stackable Rail Ring|stackable-ring-with-zirconia-stones||Sterling Silver|
+22|Baguette Ear Studs|baguette-ear-studs|variant_E1046|Sterling Silver|
+23|Solitaire Statement Ring|solitaire-statement-ring||Sterling Silver|
+24|Half Set Solitaire Ring|daily-essentials-solitaire-ring||Sterling Silver|
+25|Solitaire Rope Ring|solitaire-ring-on-rope-band||Sterling Silver|
+26|Baguette Stackable Ring|baguette-stackable-solitair-ring|variant_R417|Sterling Silver|
+27|Gold Plated Stackable Solitaire Ring|gold-plated-stackable-solitaire-ring|variant_R413|Gold Plated Silver|
+28|Stackable Solitaire Ring|stackable-solitaire-ring|variant_R413|Sterling Silver|
+29|Sparkling Ring|daily-essentials-sparkeling-ring||Sterling Silver|
+30|Oval-Shaped Engrave Pendant|oval-shaped-engrave-pendant||Sterling Silver|
+31|Round Engravable Pendant|round-engravable-pendant||Sterling Silver|
+32|Sparkling Heart Pendant|sparkling-heart-pendant||Sterling Silver|
+33|Engravable Rectangular Pendant|engravable-rectangular-pendant||Sterling Silver|
+34|Engravable Tag Pendant|engravable-tag-pendant||Silver Gold Plated|
+35|Engravable Oval Pendant|engravable-oval-pendant||Gold Plated Silver|
+36|Engravable Mini Tag Pendant|engravable-mini-tag-pendant||Gold Plated Silver|
+37|Engravable Mini Oval Pendant|engravable-mini-oval-pendant||Gold Plated Silver|
+38|Gold Plated Bezel Ring|gold-plated-bezel-ring|variant_R373|White Stone|
+39|Bezel Ring|bezel-ring|variant_R373|White Stone|
+40|Mother Of Pearl Coin Ring 14k Gold|mother-of-pearl-coin-ring-14k-gold||14k Gold|
+41|Icon Coin Hoop Earrings|icon-coin-hoop-earrings-14k-gold||14k Yellow Gold|
+42|Eternal Sparkle Ring 14k Gold|eternal-sparkle-ring-14k-gold||14k Gold|
+43|Icon Coin Bracelet 14k Gold|icon-coin-bracelet-14k-gold||14k Yellow Gold|
+44|Pearl and Mother Of Pearl Bracelet 14k Gold|pearl-and-mother-of-pearl-bracelet-14k-gold||14k Gold|
+45|Mother Of Pearl Bracelet 14k Gold|mother-of-pearl-bracelet-14k-gold||14k Gold|
+46|Mother Of Pearl Necklace 14k Gold|mother-of-pearl-necklace-14k-gold||14k Gold|
+47|Pearl Necklace 14k Gold|pearl-necklace-14k-gold||14k Gold|
+48|Solitaire Ear Studs 14k Gold|solitaire-ear-studs-14k-gold||14k Gold|
+49|Rail Ring 14k Gold|rail-ring-14k-gold||14k Gold|
+50|Pearl Ear Studs 14k Gold|pearl-ear-studs-14k-gold||14k Gold|
+51|Double Band Ring 14k Gold|double-band-ring-14k-gold||14k Gold|
+52|Freshwater Pearl Bracelet 14k Gold|freshwater-pearl-bracelet-14k-gold||14k Gold|
+53|Bold Bands Gold Plated Ear Charms|bold-bands-gold-plated-ear-charms|variant_C1004|Gold Plated Silver|
+54|Bold Bands Ear Charms|bold-bands-ear-charms|variant_C1004|Sterling Silver|
+55|Engravable Mini Coin Pendant|engravable-mini-coin-pendant||Sterling Silver|
+56|Gold Plated Engravable Mini Coin Pendant|gold-plated-engravable-mini-coin-pendant|variant_P1055|Gold Plated Silver|
+57|Sparkling Mini Hoop Earrings|gold-plated-sparkling-mini-hoop-earrings||Gold Plated Silver|
+58|Sparkling Mini Hoop Earrings|sparkling-mini-hoop-earrings||Sterling Silver|
+59|Tube Mini Hoop Earrings|tube-mini-hoop-earrings||Sterling Silver|
+60|Tube Mini Hoop Earrings|gold-plated-tube-mini-hoop-earrings||Gold Plated Silver|
+61|Bold Tube Mini Hoop Earrings|bold-tube-mini-hoop-earrings|variant_KCL3\/12|Sterling Silver|
+62|Gold Plated Bold Tube Mini Hoop Earrings|gold-plated-bold-tube-mini-hoop-earrings|variant_KCL3\/12|Gold Plated Silver|
+63|Black Pave Dashing Details Pendant|black-pave-dashing-details-pendant||Gold Plated Silver|
+64|Hot Pink Dashing Details Ear Studs|hot-pink-dashing-details-ear-studs|variant_E1077|Default Title|
+65|Mini Dashing Details Ear Studs Turquoise|mini-dashing-details-ear-studs-turquoise|variant_E1079|Gold Plated Silver|
+66|Long Blue Dashing Details Necklace|n1117lb|variant_N1117|Sterling Silver|
+67|Tri-Color Knot Ear Studs|tri-color-knot-ear-studs||Tri-Color Plated Silver|
+68|Gold Plated Knot Ear Studs|gold-plated-knot-ear-studs||Gold Plated Silver|
+69|Knot Pearl Ear Studs|knot-pearl-ear-studs||Gold Plated Silver|
+70|Honey Yellow Dashing Details Ear Studs|honey-yellow-dashing-details-ear-studs||Gold Plated Silver|
+71|Honey Dashing Details Hoops|honey-dashing-details-hoops-gold-plated-silver|variant_KC1052|Gold Plated Silver|
+72|Dashing Details Statement Pendant|dashing-details-statement-pendant||Sterling Silver|
+73|Bread Bead Pearl Necklace 14k Gold|bread-bead-pearl-necklace-14k-gold||14k Gold|
+74|Beads Necklace 14k Gold|beads-necklace-14k-gold||14k Gold|
+75|Heart Necklace 14k Gold|heart-necklace-14k-gold||14k Gold|
+76|Tri-Color Crossover Necklace|tri-color-crossover-necklace|variant_N1123|Tri-Color Plated Silver|
+77|Crossover Necklace|crossover-necklace|variant_N1123|Sterling Silver|
+78|Infinity Necklace 14k Gold|infinity-necklace-14k-gold||14k Gold|
+79|Timeless Gold Plated Tennis Bracelet|timeless-gold-plated-tennis-bracelet|variant_TRFP2.5|Gold Plated Silver|
+80|Timeless Tennis Bracelet|timeless-tennis-bracelet|variant_TRFP2.5|Sterling Silver|
+81|Rose Gold Plated Unity Necklace|rose-gold-plated-unity-necklace|variant_N1124|Rose Gold Plated Silver|
+82|Gold Plated Unity Necklace|gold-plated-unity-necklace|variant_N1124|Gold Plated Silver|
+83|Unity Necklace|unity-necklace|variant_N1124|Sterling Silver|
+84|Pearl Necklace|pearl-necklace||Sterling Silver|
+85|Box Link Chain|box-link-chain|variant_C014|42+5|
+86|Gold Plated Box Link Chain|gold-plated-box-link-chain|variant_C014|Gold Plated Silver|
+87|Gold Plated Foxtail Chain|gold-plated-foxtail-chain|variant_C015|Gold Plated Silver|
+88|Gold Plated Pave Bead Bracelet|gold-plated-pave-bead-bracelet|variant_B1046|Gold Plated Silver|
+89|Pave Bead Bracelet|pave-bead-bracelet|variant_B1046|Sterling Silver|
+90|Gold Plated Pave Heart Bracelet|gold-plated-pave-heart-bracelet|variant_B1045|Gold Plated Silver|
+91|Pave Heart Bracelet|pave-heart-bracelet|variant_B1045|Sterling Silver|
+92|Gold Plated Beaded Heart Bracelet|gold-plated-beaded-heart-bracelet|variant_B1043|Gold Plated Silver|
+93|Beaded Heart Bracelet|beaded-heart-bracelet|variant_B1043|Sterling Silver|
+94|Silver Beaded Hoops|silver-beaded-hoops|variant_KCR3\/13.5|Sterling Silver|
+95|Gold Plated Beaded Hoops|gold-plated-beaded-hoops|variant_KCR3\/13.5|Gold Plated Silver|
+96|Gold Plated Dashing Details Rope Ring|r473ytq|variant_R473|Gold Plated Silver|
+97|Heart Bracelet 14k Gold|heart-bracelet-14k-gold||14k Gold|
+98|Open Heart Bracelet 14k Gold|open-heart-bracelet-14k-gold||14k Gold|
+99|Heart Ear Studs 14k Gold|heart-ear-studs-14k-gold||14k Gold|
+100|Infinity Bracelet 14k Gold|infinity-bracelet-14k-gold||14k Gold|
+101|Blue Dashing Details Bracelet|blue-dashing-details-bracelet||Sterling Silver|
+102|Gold Plated Curved Bar Necklace|gold-plated-curved-bar-necklace|variant_N1087|Gold Plated Silver|
+103|Bicolor Mini Sparkling Heart Necklace|bicolor-mini-sparkling-heart-necklace|variant_N1090|Gold Plated Silver|
+104|Gold Plated Halo Necklace|gold-plated-halo-necklace|variant_N1110|Gold Plated Silver|
+105|Beaded Necklace|beaded-necklace|variant_N1118|Sterling Silver|
+106|Rope Hoops|rope-hoops-1||Silver Rhodium Plated|
+107|Gold Plated Sphere Hoops|gold-plated-sphere-hoops||Gold Plated Silver|
+108|Pave Statement Ear Studs|pave-statement-ear-studs|variant_E1088|Sterling Silver|
+109|Leopard Pave Statement Ear Studs|leopard-pave-statement-ear-studs|variant_E1088|Gold Plated Silver|
+110|Gold Plated Statement Ear Studs|gold-plated-statement-ear-studs|variant_E1087|Gold Plated Silver|
+111|Statement Ear Studs|statement-ear-studs|variant_E1087|Sterling Silver|
+112|Bezel And Pearl Ear Studs|bezel-and-pearl-ear-studs|variant_E1027|Sterling Silver|
+113|Gold Plated Bezel And Pearl Ear Studs|gold-plated-bezel-and-pearl-ear-studs|variant_E1027|Gold Plated Silver|
+114|Pearl Ear Hooks|pearl-ear-hooks|variant_E1023|Sterling Silver|
+115|Gold Plated Pearl Ear Hooks|gold-plated-pearl-ear-hooks|variant_E1023|Gold Plated Silver|
+116|Beaded Maxi Ear Studs|beaded-maxi-ear-studs-rose-gold-plated|variant_BO6|Rose Gold Plated Silver|
+117|Beaded Maxi Ear Studs|beaded-maxi-ear-studs-1|variant_BO6|Sterling Silver|
+118|Beaded Maxi Ear Studs|beaded-maxi-ear-studs|variant_BO6|Gold Plated Silver|
+119|7mm Pearl Ear Stud|7mm-pearl-ear-stud|variant_E1025|Default Title|
+120|Pearl Ear Stud|pearl-ear-stud|variant_E1025|3 mm|
+121|Bezel Ear Stud|bezel-ear-stud|variant_E1002|Sterling Silver|
+122|Gold Plated Bezel Ear Stud|gold-plated-bezel-ear-stud|variant_E1002|Gold Plated Silver|
+123|Orange Gold Plated Double Bezel Ear Studs|orange-gold-plated-double-bezel-ear-studs|variant_E1003|Gold Plated Silver|
+124|Double Bezel Ear Studs|double-bezel-ear-studs|variant_E1003|Sterling Silver|
+125|Gold Plated Double Bezel Ear Studs|gold-plated-double-bezel-ear-studs|variant_E1003|Gold Plated Silver|
+126|Teardrop Necklace|teardrop-necklace||Sterling Silver|
+127|Pearl Pendant Necklace|pearl-pendant-necklace|variant_N1059|Sterling Silver|
+128|Gold Plated Pearl Pendant Necklace|gold-plated-pearl-pendant-necklace|variant_N1059|Gold Plated Silver|
+129|Gold Plated Orange Stone Necklace|gold-plated-orange-stone-necklace|variant_N1040|Gold Plated Silver|
+130|Gold Plated Three Stone Necklace|gold-plated-three-stone-necklace|variant_N1040|Gold Plated Silver|
+131|Three Stone Necklace|three-stone-necklace|variant_N1040|Sterling Silver|
+132|Beaded Bracelet|beaded-bracelet|variant_B1038|Sterling Silver|
+133|Gold Plated Beaded Bracelet|gold-plated-beaded-bracelet|variant_B1038|Gold Plated Silver|
+134|Tri-Color Knot Necklace|gold-plated-knot-necklace||Tri-Color Plated Silver|
+135|Best Friend Diamond Bangle 14k Gold|best-friend-diamond-bangle||14k Gold|
+136|Modern Icons Beaded Hoops|modern-icons-beaded-hoops|variant_KCR6\/19|Sterling Silver|
+137|Pearl Bracelet|pearl-bracelet-1||Default Title|
+138|Beaded Stacking Zirconia Ring|beaded-stacking-zirconia-ring|variant_R477|Sterling Silver|
+139|Gold Plated Beaded Stacking Ring|gold-plated-beaded-stacking-ring|variant_R477|Gold Plated Silver|
+140|Beaded Stacking Pearl Ring|beaded-stacking-pearl-ring|variant_R477|Sterling Silver|
+141|Gold Plated Bead and Zirconia Ring|gold-plated-bead-and-zirconia-ring||Gold Plated Silver|
+142|Gold Plated Open Band Ring|gold-plated-open-band-ring||Gold Plated Silver|
+143|Beaded Zirconia Ring|beaded-zirconia-ring|variant_r479|Sterling Silver|
+144|Gold Plated Beaded Zirconia Ring|gold-plated-beaded-zirconia-ring|variant_r479|Gold Plated Silver|
+145|Double Band Diamond Ring 14k Gold|double-band-diamond-ring||14k Gold|
+146|Timeless Diamond Ring 14k Gold|timeless-diamond-ring||14k Gold|
+147|Diamond Double Band Ring 14k Gold|golden-double-band-ring||14k Gold|
+148|Best Friend Diamond Ear Studs 14k Gold|best-friend-diamond-ear-studs||14k Gold|
+149|Best Friend Diamond Ring 14k Gold|best-friend-diamond-ring||14k Gold|
+150|Midi Best Friend Diamond Ring 14k Gold|midi-best-friend-diamond-ring||14k Gold|
+151|Best Friend Diamond Pendant 14k Gold|best-friend-diamond-pendant||14k Gold|
+152|Daily Essential Ear Hooks|daily-essential-ear-hooks|variant_E1022|Sterling Silver|
+153|Gold Plated Daily Essential Ear Hooks|gold-plated-daily-essential-ear-hooks|variant_E1022|Gold Plated Silver|
+154|Mother Of Pearl Coin Ear Studs 14k Gold|mother-of-pearl-coin-ear-studs||14k Gold|
+155|White Gold Plated Beaded Chain Bracelet|white-gold-plated-beaded-chain-bracelet-copy|variant_B1044|Gold Plated Silver|
+156|Bold Best Friend Diamond Ring 14k Gold|bold-best-friend-diamond-ring||14k Gold|
+157|Diamond and pearl necklace 14k Gold|diamond-and-pearl-necklace||14k Gold|
+158|Pearl Bracelet 14k Gold|pearl-bracelet||14k Gold|
+159|Fresh Water Pearl Bracelet 14k Gold|fresh-water-pearl-bracelet||14k Gold|
+160|Black Gold Plated Beaded Chain Bracelet|black-gold-plated-beaded-chain-bracelet|variant_B1044|Gold Plated Silver|
+161|Gold Plated Beaded Chain Bracelet|gold-plated-beaded-chain-bracelet|variant_B1037|Gold Plated Silver|
+162|Beaded Chain Bracelet|beaded-chain-bracelet|variant_B1037|Sterling Silver|
+163|Ear Hooks|ear-hooks||Sterling Silver|
+164|Halo Charmed Hoops|halo-charmed-hoops|variant_KC1053|Sterling Silver|
+165|Blue Halo Charmed Hoops|blue-halo-charmed-hoops|variant_KC1053|Sterling Silver|
+166|Gold Plated Halo Charmed Hoops|gold-plated-halo-charmed-hoops|variant_KC1053|Gold Plated Silver|
+167|Gold Plated Blue Halo Charmed Hoops|gold-plated-blue-halo-charmed-hoops|variant_KC1053|Gold Plated Silver|
+168|Rose Gold Plated Brown Bezel Necklace|rose-gold-plated-brown-bezel-necklace|variant_N1036|Brown|
+169|Rose Gold Plated Black Bezel Necklace|rose-gold-plated-black-bezel-necklace|variant_N1036|Gold Plated Silver|
+170|Rose Gold Plated Bezel Necklace|rose-gold-plated-bezel-necklace|variant_N1036|White|
+171|Gold Plated Orange Double Bezel Necklace|gold-plated-orange-double-bezel-necklace|variant_N1038|Gold Plated Silver|
+172|Gold Plated Double Bezel Necklace|gold-plated-double-bezel-necklace|variant_N1038|Gold Plated Silver|
+173|Double Bezel Necklace|n1038-n1038y|variant_N1038|Sterling Silver|
+174|Gold Plated Orange Bezel Necklace|gold-plated-orange-bezel-necklace|variant_N1036|Orange|
+175|Gold Plated Black Bezel Necklace|gold-plated-black-bezel-necklace|variant_N1036|Black|
+176|Gold Plated Green Bezel Necklace|gold-plated-green-bezel-necklace|variant_N1036|Green|
+177|Gold Plated Bezel Necklace|gold-plated-bezel-necklace|variant_N1036|White|
+178|Black Bezel Necklace|black-bezel-necklace|variant_N1036|Black|
+179|Blue Bezel Necklace|blue-bezel-necklace|variant_N1036|Blue|
+180|Bezel Necklace|bezel-necklace|variant_N1036|White|
+181|Silver Pave Bangle|silver-pave-bangle|variant_SB06|Sterling Silver|
+182|Gold Plated Pink Pave Ring|gold-plated-pink-pave-ring|variant_R364|Gold Plated Silver|
+183|Gold Plated Pave Ring|gold-plated-pave-ring|variant_R364|Gold Plated Silver|
+184|Pave Ring|pave-ring|variant_R364|Sterling Silver|
+185|Gold Plated Pink Triple Bezel Ring|gold-plated-pink-triple-bezel-ring|variant_R378|Gold Plated Silver|
+186|Gold Plated Triple Bezel Ring|gold-plated-triple-bezel-ring|variant_R378|Gold Plated Silver|
+187|Triple Bezel Ring|triple-bezel-ring|variant_R378|Sterling Silver|
+188|Leopard Pave Bangle|leopard-pave-bangle|variant_SB06|Gold Plated Silver|
+189|Gold Plated Rope \u0026 Pave Bracelet|gold-plated-rope-pave-bracelet|variant_B1049|Gold Plated Silver|
+190|Rope \u0026 Pave Bracelet|rope-pave-bracelet|variant_B1049|Sterling Silver|
+191|Gold Plated Stackable Rope Ring|gold-plated-stackable-rope-ring|variant_R487|Gold Plated Silver|
+192|Stackable Rope Ring|stackable-rope-ring|variant_R487|Sterling Silver|
+193|Polished Hoops|polished-hoops|variant_KCL6\/18|Sterling Silver|
+194|Gold Plated Polished Hoops|gold-plated-polished-hoops|variant_KCL6\/18|Gold Plated Silver|
+195|Gold Plated Pave Hoops|gold-plated-pave-hoops|variant_KCK6\/18|Gold Plated Silver|
+196|Pave Hoops|pave-hoops|variant_KCK6\/18|Sterling Silver|
+197|Maxi Rope Hoops|maxi-rope-hoops|variant_KCJ6\/18|Sterling Silver|
+198|Maxi Gold Plated Rope Hoops|maxi-gold-plated-rope-hoops|variant_KCJ6\/18|Gold Plated Silver|
+199|Crossover Pave Gold Plated Ring|crossover-pave-gold-plated-ring|variant_R467|Gold Plated Silver|
+200|Crossover Pave Ring|crossover-pave-ring|variant_R467|Rhodium Plated Silver|
+201|Stackable Polished Ring|stackable-polished-ring|variant_R489|Sterling Silver|
+202|Stackable Polished Gold Plated Ring|stackable-polished-gold-plated-ring|variant_R489|Gold Plated Silver|
+203|Gold Plated Sparkling Crossover Ring|gold-plated-sparkling-crossover-ring|variant_R311|Gold Plated Silver|
+204|Sparkling Crossover Ring|sparkling-crossover-ring|variant_R311|Sterling Silver|
+205|Bold Statement Ring|bold-statement-ring||Silver Rhodium Plated|
+206|Tri-color Bold Statement Ring|tri-color-bold-statement-ring|variant_R054|Tri-Color Plated Silver|
+207|Statement Pendant|statement-pendant|variant_P051|Sterling Silver|
+208|Tri-color Statement Pendant|tri-color-statement-pendant|variant_P051|Tri-Color Plated Silver|
+209|Statement Bangle|statement-bangle||Sterling Silver|
+210|Tri-color Statement Bangle|tri-color-statement-bangle||Tri-Color Plated Silver|
+211|Statement Hoops|statement-hoops|variant_E051|Sterling Silver|
+212|Tri-color Statement Hoops|tri-color-statement-hoops|variant_E051|Tri-Color Plated Silver|
+213|Double Crossover Bangle|double-crossover-bangle|variant_SB19|Sterling Silver|
+214|Tri-color Double Crossover Bangle|tri-color-double-crossover-bangle|variant_SB19|Tri-Color Plated Silver|
+215|Double Crossover Hoops|double-crossover-hoops|variant_KC076|Sterling Silver|
+216|Tri-color Double Crossover Hoops|tri-color-double-crossover-hoops|variant_KC076|Tri-Color Plated Silver|
+217|Rose Gold Plated Icon Hoops|rose-gold-plated-icon-hoops|variant_KC1012|Rose Gold Plated Silver|
+218|Gold Plated Icon Hoops|gold-plated-icon-hoops|variant_KC1012|Gold Plated Silver|
+219|Icon Hoops|icon-hoops|variant_KC1012|Sterling Silver|
+220|Gold Plated Icon Bangle|gold-plated-icon-bangle|variant_SB17|Gold Plated Silver|
+221|Rose Gold Plated Icon Bangle|rose-gold-plated-icon-bangle|variant_SB17|Rose Gold Plated Silver|
+222|Icon Bangle|icon-bangle|variant_SB17|Sterling Silver|
+223|Silver Pave Ring|silver-pave-ring||48|
+224|Statement Ring|statement-ring||Silver Rhodium Plated|
+225|Tri-color Statement Ring|tri-color-statement-ring|variant_R051|Tri-Color Plated Silver|
+226|Bezel Silver Ring|r071||48|
+227|Pave Dome Gold Plated Ring|pave-dome-gold-plated-ring|variant_R488|Gold Plated Silver|
+228|Pave Dome Ring Silver|pave-dome-ring-silver|variant_R488|Sterling Silver|
+229|Bold Silver Bangle|bold-silver-bangle||Sterling Silver|
+230|Silver Bangle|silver-bangle||Sterling Silver|
+231|Flat Snake Chain|flat-snake-chain|variant_C013|Sterling Silver|
+232|Rose Gold Plated Icon Ring|rose-gold-plated-icon-ring|variant_R101|Rose Gold Plated Silver|
+233|Tri-color Double Crossover Ring|tri-color-double-crossover-ring|variant_R076|Tri-Color Plated Silver|
+234|Double Crossover Statement Ring|crossover-ring-1||Sterling Silver|
+235|Tri-color Crossover Ring|tri-color-crossover-ring|variant_R074|Tri-Color Plated Silver|
+236|Crossover Ring|crossover-ring||Silver Rhodium Plated|
+237|Tri-color Cocktail Statement Ring|tri-color-cocktail-statement-ring|variant_R055|48|
+238|Gold Plated Cocktail Statement Ring|gold-plated-cocktail-statement-ring|variant_R055|Gold Plated Silver|
+239|Rose Gold Plated Cocktail Ring|rose-gold-plated-cocktail-statement-ring|variant_R055|48|
+240|Cocktail Statement Ring|cocktail-statement-ring||48|
+241|Triple Crossover Tri-color Statement Ring|triple-crossover-tricolor-statement-ring|variant_R083|Tri-Color Plated Silver|
+242|Triple Crossover Statement Ring|crossover-sterling-silver-ring||Silver Rhodium Plated|
+243|Best Friend Diamond Hoops 14k Gold|best-friend-diamond-hoops||14k Gold|
+244|Bold Bands Bracelet Gold Plated|bold-bands-bracelet-gold-plated|variant_B1035|Gold Plated Silver|
+245|Dashing Details Bracelet|b1032yy||Default Title|
+246|Sparkling Tennis Bracelet|sparkling-tennis-bracelet||Sterling Silver|
+247|Glittering Tennis Bracelet|trfp4||Sterling Silver|
+248|Eye catching Tennis Bracelet|tr4||Sterling Silver|
+249|Brilliant Round Studs Draft|brilliant-round-studs-draft||Gold Plated Silver|
+250|Shimmering Drop Ear Studs|i04e003||Default Title|
+251|Dazzling Hoops|dazzling-hoops||Default Title|
+252|Silver Sterling Bezel Stone Bracelets|bezel-stone-bracelet-silver-sterling||Sterling Silver|
+253|Bezel Stone Bracelet Gold Plated Silver|bezel-stone-bracelet-silver-gold-plated|variant_B1000|Gold Plated Silver|
+254|Rope Link Bracelet|b1018||Default Title|
+255|Gisser Jewelry Travel Box|gisser-jewelry-travel-box||Default Title|
+256|Honey Yellow Dashing Details Pendant|p1101yy||Default Title|
+257|Gold plated Shiny Studs|i06e004y||Default Title|
+258|Dainty Pearly Pendant|i02p001||Default Title|
+259|Shimmering Drop Ring|i04r004||48|
+260|Sparkling Ear Studs|i06e004||Default Title|
+261|Shimmering Pearl Ear Studs|i02e002||Default Title|
+262|Silver Hoops with Navy Blue charms|i05e012||Default Title|
+263|Silver Navy Blue Ear Studs|i05e011||Default Title|
+264|Navy Blue and Silver Ear Studs|i05e010||Default Title|
+265|Silver Drop Necklace with Mother of Pearl|i05n004-42-5||Sterling Silver|
+266|Silver Hoops with Mother of Pearl Charms|i05e009||Default Title|
+267|Ear Studs with Mother of Pearl effect|i05e008||Default Title|
+268|Mother of Pearl Ear Studs|i05e007||Default Title|
+269|Silver Tiny Drop Ear Studs|i05e004||Default Title|
+270|Gisserjewels Giftcard|gisserjewels-giftcard||\u20ac\u00a01000|
+271|Dashing Details Turquoise Earrings|kc1045ytq||Default Title|
+272|Natural Peridot Ring|vwpr003||50|
+273|Anchor Link Bracelet|bc011y-16-4||Default Title|
+274|Anchor Link Bracelet|bc011-16-4||Default Title|
+275|Halo Ring Blue|halo-ring-blue-sterling-silver|variant_R446|Sterling Silver|
+276|Triple Bold Bands Ring|triple-bold-bands-ring-sterling-silver|variant_r456|Sterling Silver|
+277|Mini Sparkling Heart Necklace|mini-sparkling-heart-necklace-sterling-silver|variant_N1090|Sterling Silver|
+278|Sparkling Heart Necklace|sparkling-heart-necklace-sterling-silver|variant_N1024|Sterling Silver|
+279|Oval Pave Dashing Details Pendant|oval-pave-dashing-details-pendant-sterling-silver|variant_P1093|Sterling Silver|
+280|Minimal Heart Necklace|minimal-heart-necklace-gold-plated-silver|variant_N1030|Gold Plated Silver|
+281|It is a Classic Pendant|it-is-a-classic-pendant-sterling-silver|variant_SPP03|Sterling Silver|
+282|It is a Classic Pendant|it-is-a-classic-pendant-gold-plated-silver|variant_SPP03|Gold Plated Silver|
+283|Infinity Necklace|infinity-necklace-gold-plated-silver|variant_N1108|Gold Plated Silver|
+284|Icon Coin Necklace Mother of Pearl 14k Gold|icon-coin-necklace-mother-of-pearl-14k-gold|variant_VGN020|14k Gold|
+285|Icon Coin Necklace Black Agate 14k Gold|icon-coin-necklace-black-agate-14k-gold|variant_VGN020|14k Gold|
+286|Icon Coin Necklace Green Malachite 14k Gold|icon-coin-necklace-green-malachite-14k-gold|variant_VGN020|14k Gold|
+287|Halo Necklace Blue|halo-necklace-blue-sterling-silver|variant_N1110|Sterling Silver|
+288|Engravable Coin Pendant|engravable-coin-pendant-sterling-silver|variant_P1057|Sterling Silver|
+289|Dashing Details Necklace Blue|dashing-details-necklace-blue-sterling-silver|variant_N1112|Sterling Silver|
+290|Brilliant Round Necklace|brilliant-round-necklace-sterling-silver|variant_N1060|Sterling Silver|
+291|Brilliant Necklace|brilliant-necklace-14k-white-gold|variant_VWN002|14k White Gold|
+292|Brilliant Necklace Red 14k Gold|brilliant-necklace-red-14k-gold|variant_VGN002|14k Gold|
+293|Brilliant Necklace Green 14k Gold|brilliant-necklace-green-14k-gold|variant_VGN002|14k Gold|
+294|Brilliant Necklace Black 14k Gold|brilliant-necklace-black-14k-gold|variant_VGN002|14k Gold|
+295|Brilliant Necklace 14k Gold|brilliant-necklace-14k-gold|variant_VGN002|14k Gold|
+296|Brilliant Dashing Details Solitaire Pendant|brilliant-dashing-details-solitaire-pendant-sterling-silver|variant_P1091|Sterling Silver|
+297|Chain Necklace|chain-necklace-gold-plated-silver|variant_ank35|Gold Plated Silver|
+298|Bold Pave Pendant|bold-pave-pendant-gold-plated-silver|variant_P1098|Gold Plated Silver|
+299|Bold Pearl Necklace|bold-pearl-necklace-pendant-sterling-silver|variant_N1114|Sterling Silver|
+300|Dashing Details Necklace|dashing-details-necklace-sterling-silver|variant_N1113|Sterling Silver|
+301|Bold Heart Pendant|bold-heart-pendant-sterling-silver|variant_P1086|Sterling Silver|
+302|Classic Link Bracelet|classic-link-bracelet-gold-plated-silver|variant_B042|Gold Plated Silver|
+303|Icon Coin and Beads Bracelet Black Agate 14k Gold|icon-coin-and-beads-bracelet-black-agate-14k-gold|variant_VGB016|14k Gold|
+304|Icon Coin and Beads Bracelet Green Malachite 14k Gold|icon-coin-and-beads-bracelet-green-malachite-14k-gold|variant_VGB016|14k Gold|
+305|Polished Bold Bangle|polished-bold-bangle-gold-plated-silver|variant_SBA6|Gold Plated Silver|
+306|Brilliant Solitaire Ring Red 14k Gold|brilliant-solitaire-ring-red-14k-gold|variant_VGR013|14k Gold|
+307|Brilliant Solitaire Ring Black 14k Gold|brilliant-solitaire-ring-black-14k-gold|variant_VGR013|14k Gold|
+308|Brilliant Solitaire Ring Green 14k Gold|brilliant-solitaire-ring-green-14k-gold|variant_VGR013|14k Gold|
+309|Brilliant Solitaire Ring|brilliant-solitaire-ring-14k-white-gold|variant_VWR013|14k White Gold|
+310|Brilliant Solitaire Ring Blue|brilliant-solitaire-ring-blue-14k-white-gold|variant_VWR013|14k White Gold|
+311|Bold Tennis Bracelet|bold-tennis-bracelet-sterling-silver|variant_TR3|Sterling Silver|
+312|Bold Chain Bracelet|bold-chain-bracelet-sterling-silver|variant_B1031|Sterling Silver|
+313|Lovely Hearts Bracelet|lovely-hearts-bracelet-sterling-silver|variant_B1025|Sterling Silver|
+314|Bold Oval Link Bracelet|bold-oval-link-bracelet-gold-plated-silver|variant_B1017|Gold Plated Silver|
+315|Polished Bangle|polished-bangle-gold-plated-silver|variant_SBA4|Gold Plated Silver|
+316|Brilliant Tennis Bracelet|brilliant-tennis-bracelet-gold-plated-silver|variant_TRFP3|Gold Plated Silver|
+317|Infinity Bracelet|infinity-bracelet-sterling-silver|variant_B1026|Sterling Silver|
+318|Minimal Heart Bracelet|minimal-heart-bracelet-sterling-silver|variant_B1016|Sterling Silver|
+319|Triple Bold Bands Stud Earrings|triple-bold-bands-stud-earrings-gold-plated-silver|variant_E1063|Gold Plated Silver|
+320|Beaded Large Hoop Earrings|beaded-large-hoop-earrings-gold-plated-silver|variant_KCR2\/22|Gold Plated Silver|
+321|Triple Crossover Ring|triple-crossover-ring-14k-tri-color-gold|variant_VGR053|14k Tri-Color Gold|
+322|Take The Stage Ring|take-the-stage-ring-sterling-silver|variant_R464|Sterling Silver|
+323|Oval Pave Dashing Details Ring|oval-pave-dashing-details-ring-gold-plated-silver|variant_R470|Gold Plated Silver|
+324|Maxi Crossover Bold Bands Ring|maxi-crossover-bold-bands-ring-sterling-silver|variant_R462|Sterling Silver|
+325|Crossing Bold Bands Pave Ring|crossing-bold-bands-pave-ring-sterling-silver|variant_R453|Sterling Silver|
+326|Crossing Bold Bands Ring|crossing-bold-bands-ring-sterling-silver|variant_R452|Sterling Silver|
+327|Polished Band Ring|polished-band-ring-14k-white-gold|variant_VGR022|14k White Gold|
+328|Pave is Brilliant Ring 14k Gold|pave-is-brilliant-ring-14k-gold|variant_VGR019|14k Gold|
+329|Brilliant Pave Ring|brilliant-pave-ring-14k-white-gold|variant_VGR015|14k White Gold|
+330|Big Bead Ring|big-bead-ring-sterling-silver|variant_R478|Sterling Silver|
+331|Blue Pave Stackable Ring|blue-pave-stackable-ring-sterling-silver|variant_R066|Sterling Silver|
+332|Pave Stackable Ring|pave-stackable-ring-sterling-silver|variant_R066|Sterling Silver|
+333|Blue Pave Stackable Ring|blue-pave-stackable-ring-gold-plated-silver|variant_R066|Gold Plated Silver|
+334|Orange Pave Stackable Ring|orange-pave-stackable-ring-gold-plated-silver|variant_R066|Gold Plated Silver|
+335|Shiny Stacking Ring|shiny-stacking-ring-sterling-silver|variant_R451|Sterling Silver|
+336|Shimmering Bold Bands Ring|shimmering-bold-bands-ring-gold-plated-silver|variant_R458|Gold Plated Silver|
+337|Icon Ring|icon-ring-sterling-silver|variant_R101|Sterling Silver|
+338|Rope Stackable Ring|rope-stackable-ring-sterling-silver|variant_R432|Sterling Silver|
+339|Dashing Details Ring Petrol Green|dashing-details-ring-petrol-green-sterling-silver|variant_R471|Sterling Silver|
+340|Silver Dashing Details Pave Ring|silver-dashing-details-pave-ring-sterling-silver|variant_R469|Sterling Silver|
+341|Dashing Details Ring|dashing-details-ring-sterling-silver|variant_R475|Sterling Silver|
+342|Brilliant Dashing Details Ring|brilliant-dashing-details-ring-sterling-silver|variant_R468|Sterling Silver|
+343|Mini Halo Ear Studs Blue|mini-halo-ear-studs-blue-sterling-silver|variant_E1052|Sterling Silver|
+344|Mini Dashing Details Ear Studs Petrol Green|mini-dashing-details-ear-studs-petrol-green-sterling-silver|variant_E1079|Sterling Silver|
+345|Mini Dashing Details Ear Studs Light Blue|mini-dashing-details-ear-studs-light-blue-sterling-silver|variant_E1079|Sterling Silver|
+346|Mini Dashing Details Ear Studs Dark Blue|mini-dashing-details-ear-studs-dark-blue-sterling-silver|variant_E1079|Sterling Silver|
+347|Bold 4 mm Long Hoop Earrings 30mm|bold-4-mm-long-hoop-earrings-30-mm-gold-plated-silver|variant_KCQ4\/30|Gold Plated Silver|
+348|Midi Polished Hoop Earrings 14k Gold|midi-polished-hoop-earrings-14k-gold|variant_VGKCL1\/15|14k Gold|
+349|Midi Pave Hoop Earrings 14k Gold|midi-pave-hoop-earrings-14k-gold|variant_VGKCK1\/15|14k Gold|
+350|Maxi Polished Hoop Earrings 14k Gold|maxi-polished-hoop-earrings-14k-gold|variant_VGKCL1\/20|14k Gold|
+351|Sparkling Medium Hoop Earrings|sparkling-medium-hoop-earrings-gold-plated-silver|variant_KCK2\/15|Gold Plated Silver|
+352|Sparkling Large Hoop Earrings|sparkling-large-hoop-earrings-gold-plated-silver|variant_KCK2\/20|Gold Plated Silver|
+353|Sparkling Oversized Hoop Earrings|sparkling-oversized-hoop-earrings-gold-plated-silver|variant_KCK2\/40|Gold Plated Silver|
+354|Sparkling Statement Hoop Earrings|sparkling-statement-hoop-earrings-sterling-silver|variant_KCK2\/30|Sterling Silver|
+355|Shimmering Bold Bands Stud Earrings|shimmering-bold-bands-stud-earrings-sterling-silver|variant_E1067|Sterling Silver|
+356|Rope Oval Hoop Earrings|rope-oval-hoop-earrings-gold-plated-silver|variant_KC1049|Gold Plated Silver|
+357|Polished Oval Hoop Earrings|polished-oval-hoop-earrings-sterling-silver|variant_KC1047|Sterling Silver|
+358|Pave Oval Hoop Earrings|pave-oval-hoop-earrings-sterling-silver|variant_KC1048|Sterling Silver|
+359|Pave Love Hoops|pave-love-hoops-sterling-silver|variant_KC1025|Sterling Silver|
+360|Oval Pave Dashing Details Ear Studs Blue|oval-pave-dashing-details-ear-studs-blue-gold-plated-silver|variant_E1078|Gold Plated Silver|
+361|Dashing Details Pave Hoop Earrings|dashing-details-pave-hoop-earrings-sterling-silver|variant_KC1042|Sterling Silver|
+362|Tube Oversized Hoop Earrings|tube-oversized-hoop-earrings-sterling-silver|variant_KCL2\/40|Sterling Silver|
+363|Bold 2 mm Long Hoop Earrings 20 mm|bold-2-mm-long-hoop-earrings-20-mm-gold-plated-silver|variant_KCQ2\/20|Gold Plated Silver|
+364|Tube Large Hoop Earrings|tube-large-hoop-earrings-sterling-silver|variant_KCL2\/20|Sterling Silver|
+365|Bold Long Hoop Earrings 30mm|bold-long-hoop-earrings-30mm-sterling-silver|variant_KCQ2\/30|Sterling Silver|
+366|Tube Statement Hoop Earrings|tube-statement-hoop-earrings-sterling-silver|variant_KCL2\/30|Sterling Silver|
+367|Minimal Heart Ear Studs|minimal-heart-ear-studs-sterling-silver|variant_E1031|Sterling Silver|
+368|Lovely Hoop Earrings|lovely-hoop-earrings-gold-plated-silver|variant_KC1026|Gold Plated Silver|
+369|Halo Ear Studs Blue|halo-ear-studs-blue-sterling-silver|variant_E1074|Sterling Silver|
+370|Every Day Hoops|every-day-hoops-gold-plated-silver|variant_KC1003|Gold Plated Silver|
+371|Dashing Details Charm Hoop Earrings|dashing-details-charm-hoop-earrings-sterling-silver|variant_KC1043|Sterling Silver|
+372|Allure Large Hoop Earrings|allure-large-hoop-earrings-sterling-silver|variant_KCD2\/20|Sterling Silver|
+373|Allure Small Hoop Earrings|allure-small-hoop-earrings-gold-plated-silver|variant_KCD2\/12|Gold Plated Silver|
+374|Crossing Bold Bands Stud Pave Earrings|crossing-bold-bands-stud-pave-earrings-gold-plated-silver|variant_E1060|Gold Plated Silver|
+375|Crossing Bold Bands Stud Earrings|crossing-bold-bands-stud-earrings-sterling-silver|variant_E1059|Sterling Silver|
+376|Brilliant 14k Gold Maxi Stud Earrings|brilliant-14k-gold-maxi-stud-earrings-14k-white-gold|variant_VGE037\/5|14K White Gold|
+377|Brilliant 14k Gold Maxi Stud Earrings|brilliant-14k-gold-maxi-stud-earrings-14k-gold|variant_VGE037\/5|14k Gold|
+378|Brilliant 14k Gold Mini Stud Earrings|brilliant-14k-gold-mini-stud-earrings-14k-white-gold|variant_VGE037\/3|14K White Gold|
+379|Brilliant 14k Gold Mini Stud Earrings Blue|brilliant-14k-gold-mini-stud-earrings-blue-14k-white-gold|variant_VGE037\/3|14K White Gold|
+380|Brilliant 14k Gold Mini Stud Earrings Red|brilliant-14k-gold-mini-stud-earrings-red-14k-gold|variant_VGE037\/3|14k Gold|
+381|Brilliant 14k Gold Mini Stud Earrings|brilliant-14k-gold-mini-stud-earrings-14k-gold|variant_VGE037\/3|14k Gold|
+382|Brilliant 14k Gold Midi Stud Earrings|brilliant-14k-gold-midi-stud-earrings-14k-white-gold|variant_VGE037\/4|14K White Gold|
+383|Brilliant 14k Gold Midi Stud Earrings Green|brilliant-14k-gold-midi-stud-earrings-green-14k-gold|variant_VGE037\/4|14k Gold|
+384|Brilliant 14k Gold Midi Stud Earrings Black|brilliant-14k-gold-midi-stud-earrings-black-14k-gold|variant_VGE037\/4|14k Gold|
+385|Bold Tube Oversized Hoop Earrings|bold-tube-oversized-hoop-earrings-sterling-silver|variant_KCL3\/40|Sterling Silver|
+386|Bold Pave Stud Earrings|bold-pave-stud-earrings-sterling-silver|variant_E1075|Sterling Silver|
+387|Bold Tube Medium Hoop Earrings|bold-tube-medium-hoop-earrings-gold-plated-silver|variant_KCL3\/15|Gold Plated Silver|
+388|Bold Tube Statement Hoop Earrings|bold-tube-statement-hoop-earrings-gold-plated-silver|variant_KCL3\/30|Gold Plated Silver|
+389|Bold Bands Stud Earrings|bold-bands-stud-earrings-sterling-silver|variant_E1001|Sterling Silver|
+390|Bold Bands Pearl Stud Earrings|bold-bands-pearl-stud-earrings-sterling-silver|variant_E1001WP|Sterling Silver|
+391|Beaded Small Hoop Earrings|beaded-small-hoop-earrings-gold-plated-silver|variant_KCR2\/13.5|Gold Plated Silver|
+392|Beaded Medium Hoop Earrings|beaded-medium-hoop-earrings-gold-plated-silver|variant_KCR2\/18|Gold Plated Silver|
+393|Beaded Ear Studs|beaded-ear-studs-gold-plated-silver|variant_BO5|Gold Plated Silver|
+394|Beaded Ear Studs|beaded-ear-studs-sterling-silver|variant_BO5|Sterling Silver|
+395|Beaded Midi Ear Studs|beaded-midi-ear-studs-gold-plated-silver|variant_BO4|Gold Plated Silver|
+396|Beaded Midi Ear Studs|beaded-midi-ear-studs-sterling-silver|variant_BO4|Sterling Silver|
+397|Beaded Mini Ear Studs|beaded-mini-ear-studs-sterling-silver|variant_BO3|Sterling Silver|
+398|Brilliant Maxi Round Ear Studs|brilliant-maxi-round-ear-studs-sterling-silver|variant_E1021\/5|Sterling Silver|
+399|Brilliant Maxi Round Ear Studs|brilliant-maxi-round-ear-studs-gold-plated-silver|variant_E1021\/5|Gold Plated Silver|
+400|Brilliant Midi Round Ear Studs|brilliant-midi-round-ear-studs-sterling-silver|variant_E1021\/4|Sterling Silver|
+401|Brilliant Midi Round Ear Studs|brilliant-midi-round-ear-studs-gold-plated-silver|variant_E1021\/4|Gold Plated Silver|
+402|Brilliant Mini Round Ear Studs|brilliant-mini-round-ear-studs-sterling-silver|variant_E1021\/3|Sterling Silver|
+403|Allure Medium Hoop Earrings|allure-medium-hoop-earrings-sterling-silver|variant_KCD2\/15|Sterling Silver|
+404|Bold Maxi Long Hoop Earrings|bold-maxi-long-hoop-earrings-sterling-silver|variant_KCQ4\/20|Sterling Silver|
+405|Bold Tube Large Hoop Earrings|bold-tube-large-hoop-earrings-sterling-silver|variant_KCL3\/20|Sterling Silver|
+406|Tube Medium Hoop Earrings|tube-medium-hoop-earrings-sterling-silver|variant_KCL2\/15|Sterling Silver|
+407|Dashing Details Combo Necklace|dashing-details-combo-necklace-gold-plated-silver|variant_Dashing Details Combo Necklace|Gold Plated Silver|
+408|Beaded Medium Hoop Earrings|beaded-medium-hoop-earrings-sterling-silver|variant_KCR2\/18|Sterling Silver|
+409|Beaded Stacking Ring|beaded-stacking-ring-sterling-silver|variant_R476|Sterling Silver|
+410|Long Link Necklace|long-link-necklace-sterling-silver|variant_N1098|Sterling Silver|
+411|Long Icon Link Bracelet|long-icon-link-bracelet-sterling-silver|variant_B1022|Sterling Silver|
+412|Shimmering Silver Hoops|shimmering-silver-hoops||Default Title|
+413|Solitaire Ear Studs|solitaire-ear-studs|variant_E10216|Default Title|
+414|Circled pave ear studs|circled-pave-ear-studs|variant_E1020|Default Title|
+415|Vintage Feels Pearl Ring 14k Gold|vintage-feels-pearl-ring-14k-gold|variant_VGR051|14k Gold|
+416|Black Extended Hexagon Ear Charms|black-extended-hexagon-ear-charms-gold-plated-silver|variant_C1003|Gold Plated Silver|
+417|Gold Plated Flat Snake Chain|flat-snake-chain-gold-plated-silver|variant_C013|Gold Plated Silver|
+418|Modern Icons Beaded Hoops|modern-icons-beaded-hoops-gold-plated-silver|variant_KCR6\/19|Gold Plated Silver|
+419|Green Bar Hoop Earrings|green-bar-hoop-earrings-gold-plated-silver|variant_KC1036|Gold Plated Silver|
+420|Dangling Dashing Details Hot Pink Hoop Earrings|dangling-dashing-details-hot-pink-hoop-earrings-gold-plated-silver|variant_KC1041|Gold Plated Silver|
+421|Beaded Ring 14k Gold|beaded-ring-14k-gold||14k Gold|
+422|Hot Pink Dashing Details Pave Ring|hot-pink-dashing-details-pave-ring-gold-plated-silver|variant_R469|Gold Plated Silver|
+423|Black Baguette Ring|black-baguette-ring-gold-plated-silver|variant_R417|Gold Plated Silver|
+424|Gold Plated Beaded Necklace|beaded-necklace-gold-plated-silver|variant_N1118|Gold Plated Silver|
+425|Honey Dashing Details Necklace|honey-dashing-details-necklace-gold-plated-silver|variant_N1111|Gold Plated Silver|
+426|Long Dashing Details Necklace|long-dashing-details-necklace-gold-plated-silver|variant_N1117|Gold Plated Silver|
+427|Modern Icons Necklace|modern-icons-necklace-gold-plated-silver|variant_N1116|Gold Plated Silver|
+428|Modern Icons Statement Necklace|modern-icons-statement-necklace-gold-plated-silver|variant_N1119|Gold Plated Silver|
+429|Black Baguette Necklace|black-baguette-necklace-gold-plated-silver|variant_N1086|Gold Plated Silver|
+430|Turquoise Dashing Details Pendant|turquoise-dashing-details-pendant-gold-plated-silver|variant_P1097|Gold Plated Silver|
+431|Hot Pink Dashing Details Pendant|hot-pink-dashing-details-pendant|variant_P1092|Gold Plated Silver|
+432|Dangling Pearl Ear Studs|dangling-pearl-ear-studs||Gold Plated Silver|
+433|Honey Dashing Details Ear Studs|e1081yy||Gold Plated Silver|
+434|Modern Icons Ear Studs|modern-icons-ear-studs-gold-plated-silver|variant_E1068|Gold Plated Silver|
+435|Dashing Details Honey Bracelet|dashing-details-honey-bracelet-gold-plated-silver|variant_B1040|Gold Plated Silver|
+436|Dashing Details Honey Chain Bracelet|dashing-details-honey-chain-bracelet-gold-plated-silver|variant_B1039|Gold Plated Silver|
+437|Pave Double Band Ring|pave-double-band-ring|variant_R449|48|
+438|Silver Double Band Ring|silver-double-band-ring-sterling-silver|variant_R447|48|
+439|Sparkling Oval Ear Charms|sparkling-oval-ear-charms-gold-plated-silver|variant_C1001|Gold Plated Silver|
+440|Sparkling Black Oval Ear Charms|sparkling-black-oval-ear-charms-gold-plated-silver|variant_C1001|Gold Plated Silver|
+441|Sparkling Emerald Green Oval Ear Charms|sparkling-emerald-green-oval-ear-charms-gold-plated-silver|variant_C1001|Gold Plated Silver|
+442|Sparkling Oval Ear Charms|sparkling-oval-ear-charms-sterling-silver|variant_C1001|Sterling Silver|
+443|Shimmering Oval Ear Charms|shimmering-oval-ear-charms-gold-plated-gold-plated-silver|variant_C1001|Gold Plated Silver|
+444|Shimmering Oval Ear Charms|shimmering-oval-ear-charms-sterling-silver|variant_C1001|Sterling Silver|
+445|Maxi Allure Small Hoop Earrings|maxi-allure-small-hoop-earrings||White|
+446|Dark Blue Silver Ring|dark-blue-silver-ring-sterling-silver||48|
+447|Stackable Silver Drop Ring|stackable-silver-drop-ring-sterling-silver|variant_I01R001|48|
+448|Blue Silver Drop Necklace|blue-silver-drop-necklace-sterling-silver|variant_I05N006|Sterling Silver|
+449|Silver Drop Wrap Around Ring|silver-drop-wrap-around-ring-sterling-silver|variant_I01R002|48|
+450|Silver Dark Blue Statement Ring|silver-dark-blue-statement-ring-sterling-silver|variant_I05R009|50|
+451|Mother of Pearl Statement Ring|mother-of-pearl-statement-ring|variant_I05R006|48|
+452|Beaded Mini Ear Studs|beaded-mini-ear-studs-gold-plated-silver|variant_BO3|Gold Plated Silver|
+453|Silver Mother of Pearl Ring|silver-mother-of-pearl-ring|variant_I05R007|48|
+454|Mother of Pearl Silver Ring|mother-of-pearl-paved-ring|variant_I05R008|48|
+455|Curved Bar Silver Necklace|curved-bar-silver-necklace-sterling-silver|variant_N1087|Sterling Silver|
+456|Gold Plated Icon Ring|icon-ring-gold-plated-silver|variant_R101|Gold Plated Silver|
+457|anchor link chain|anchor-link-chain-gold-plated-silver|variant_C011|Gold Plated Silver|
+458|Anchor Link Chain|anchor-link-chain-sterling-silver|variant_C011|Sterling Silver|
+459|Bold Bands Pave Link Bracelet|bold-bands-pave-link-bracelet-sterling-silver|variant_B1036|Sterling Silver|
+460|Bold Bands Hexagon Link Bracelet|bold-bands-hexagon-link-bracelet-gold-plated-silver|variant_B1034|Gold Plated Silver|
+461|Bold Bands Bracelet|bold-bands-bracelet-sterling-silver|variant_B1035|Sterling Silver|
+462|Black Stud Earrings|black-stud-earrings-gold-plated-silver|variant_E1001|Gold Plated Silver|
+463|Pearl Stacking Ring|pearl-stacking-ring-gold-plated-silver|variant_R477|Gold Plated Silver|
+464|Emerald Green Stacking Ring|emerald-green-stacking-ring-gold-plated-silver|variant_R477|Gold Plated Silver|
+465|Black Pave Stacking Ring|black-pave-stacking-ring-gold-plated-silver|variant_R066|Gold Plated Silver|
+466|Dangling Dashing Details Black Hoop Earrings|dangling-dashing-details-black-hoop-earrings-gold-plated-silver|variant_KC1041|Gold Plated Silver|
+467|Emerald Green Dashing Details Pave Ring|emerald-green-dashing-details-pave-ring-gold-plated-silver|variant_R469|Gold Plated Silver|
+468|Bold Bands Hexagon Link Bracelet|bold-bands-hexagon-link-bracelet-sterling-silver|variant_B1034|Sterling Silver|
+469|Emerald Green Pave Stacking Ring|emerald-green-pave-stacking-ring-gold-plated-silver|variant_R066|Gold Plated Silver|
+470|Black Dashing Details Pave Ring|black-dashing-details-pave-ring-gold-plated-silver|variant_R469|Gold Plated Silver|
+471|Long Paperclip Hoop Earrings 14k Gold|long-paperclip-hoop-earrings-14k-gold|variant_VGKCO|14k Gold|
+472|Paperclip Hoop Earrings 14k Gold|paperclip-hoop-earrings-14k-gold|variant_VGKCO1.5\/18|14k Gold|
+473|Black Baguette Ear Studs|black-baguette-ear-studs-gold-plated-silver|variant_E1046|Gold Plated Silver|
+474|Black Dashing Details Ear Studs|black-dashing-details-ear-studs-gold-plated-silver|variant_E1077|Gold Plated Silver|
+475|Dashing Details Emerald Green Hoop Earrings|dashing-details-emerald-green-hoop-earrings-gold-plated-silver|variant_KC1042|Gold Plated Silver|
+476|Emerald Green Dashing Details Ear Studs|emerald-green-dashing-details-ear-studs-gold-plated-silver|variant_E1078|Gold Plated Silver|
+477|Emerald Green Dashing Details Rings|emerald-green-dashing-details-rings-gold-plated-silver|variant_R470|Gold Plated Silver|
+478|Green Oval Dashing Details Pendant|green-oval-dashing-details-pendant-gold-plated-silver|variant_P1093|Gold Plated Silver|
+479|Bold Bands Stud Earrings|bold-bands-stud-earrings-gold-plated-silver|variant_E1001|Gold Plated Silver|
+480|Beaded Large Hoop Earrings|beaded-large-hoop-earrings-sterling-silver|variant_KCR2\/22|Sterling Silver|
+481|Dashing Details Bracelet|dashing-details-bracelet-sterling-silver|variant_B1032|Sterling Silver|
+482|Orange Dangling Ear Studs|orange-dangling-ear-studs-gold-plated-silver|variant_E1082|Gold Plated Silver|
+483|Minimal Heart Bracelet|minimal-heart-bracelet-gold-plated-silver|variant_B1016|Gold Plated Silver|
+484|Bold Oval Link Bracelet|bold-oval-link-bracelet-sterling-silver|variant_B1017|Sterling Silver|
+485|Long Icon Link Bracelet|long-icon-link-bracelet-gold-plated-silver|variant_B1022|Gold Plated Silver|
+486|Lovely Hearts Bracelet|lovely-hearts-bracelet-gold-plated-silver|variant_B1025|Gold Plated Silver|
+487|Infinity Bracelet|infinity-bracelet-gold-plated-silver|variant_B1026|Gold Plated Silver|
+488|Bold Chain Bracelet|bold-chain-bracelet-gold-plated-silver|variant_B1031|Gold Plated Silver|
+489|Chain Necklace|chain-necklace-sterling-silver|variant_ank35|Sterling Silver|
+490|Sparkling Bracelet 14k Gold|sparkling-bracelet-14k-gold|variant_VGB019|14k Gold|
+491|Bead Bracelet 14k Gold|bead-bracelet-14k-gold|variant_VGB012|14k Gold|
+492|Beaded Small Hoop Earrings|beaded-small-hoop-earrings-sterling-silver|variant_KCR2\/13.5|Sterling Silver|
+493|Beaded Pearl Bracelet 14k Gold|beaded-pearl-bracelet-14k-gold|variant_VGB014|14k Gold|
+494|Gold Plated Beaded Stacking Ring|beaded-stacking-ring-gold-plated-silver|variant_R476|Gold Plated Silver|
+495|Beaded Necklace 14k Gold|beaded-necklace-14k-gold|variant_VGN018|14k Gold|
+496|Love Necklace 14k Gold|love-necklace-14k-gold|variant_VGN028|14k Gold|
+497|Big Bead Ring|big-bead-ring-gold-plated-silver|variant_R478|Gold Plated Silver|
+498|Bold Bands Pearl Stud Earrings|bold-bands-pearl-stud-earrings-gold-plated-silver|variant_E1001WP|Gold Plated Silver|
+499|Bold Tube Statement Hoop Earrings|bold-tube-statement-hoop-earrings-sterling-silver|variant_KCL3\/30|Sterling Silver|
+500|Bold 4 mm Long Hoop Earrings 30 mm|bold-4-mm-long-hoop-earrings-30-mm-sterling-silver|variant_KCQ4\/30|Sterling Silver|
+501|Bold Heart Pendant|bold-heart-pendant-gold-plated-silver|variant_P1086|Gold Plated Silver|
+502|Bold Tube Large Hoop Earrings|bold-tube-large-hoop-earrings-gold-plated-silver|variant_KCL3\/20|Gold Plated Silver|
+503|Bold Maxi Long Hoop Earrings|bold-maxi-long-hoop-earrings-gold-plated-silver|variant_KCQ4\/20|Gold Plated Silver|
+504|Bold Tube Medium Hoop Earrings|bold-tube-medium-hoop-earrings-sterling-silver|variant_KCL3\/15|Sterling Silver|
+505|Bold Pave Pendant|bold-pave-pendant-sterling-silver|variant_P1098|Sterling Silver|
+506|Bold Pave Stud Earrings|bold-pave-stud-earrings-gold-plated-silver|variant_E1075|Gold Plated Silver|
+507|Bold Pearl Necklace|bold-pearl-necklace-gold-plated-silver|variant_N1114|Gold Plated Silver|
+508|Bold Gold Plated Tennis Bracelet|bold-tennis-bracelet-gold-plated-silver|variant_TR3|Gold Plated Silver|
+509|Bold Tube Oversized Hoop Earrings|bold-tube-oversized-hoop-earrings-gold-plated-silver|variant_KCL3\/40|Gold Plated Silver|
+510|Bright Brilliant Ring 14k Gold|bright-brilliant-ring-14k-gold|variant_VGR028|14k Gold|
+511|Brilliant Tennis Bracelet|brilliant-tennis-bracelet-sterling-silver|variant_TRFP3|Sterling Silver|
+512|Brilliant Bracelet 14k Gold|brilliant-bracelet-14k-gold|variant_VGB001|14k Gold|
+513|Brilliant Charm Hoop Earrings|brilliant-charm-hoop-earrings-sterling-silver|variant_KC1040|Sterling Silver|
+514|Brilliant Dashing Details Solitaire Pendant|brilliant-dashing-details-pendant-gold-plated-silver|variant_P1091|Gold Plated Silver|
+515|Brilliant Dashing Details Ring|brilliant-dashing-details-ring-gold-plated-silver|variant_R468|Gold Plated Silver|
+516|Brilliant Every Day Ring|brilliant-every-day-ring-sterling-silver|variant_R394|Sterling Silver|
+517|Brilliant Knot Stud Earrings 14k Gold|brilliant-knot-stud-earrings-14k-gold|variant_VGE022|14k Gold|
+518|Brilliant Necklace Blue|brilliant-necklace-blue-14k-white-gold|variant_VWN002|14k White Gold|
+519|Brilliant Pave Ring 14k Gold|brilliant-pave-ring-14k-gold|variant_VGR015|14k Gold|
+520|Brilliant Round Necklace|brilliant-round-necklace-gold-plated-silver|variant_N1060|Gold Plated Silver|
+521|Brilliant Star Necklace 14k Gold|brilliant-star-necklace-14k-gold|variant_VGN008|14k Gold|
+522|Brilliant Star Ring 14k Gold|brilliant-star-ring-14k-gold|variant_VGR032|14k Gold|
+523|Brilliant 14k Gold Midi Stud Earrings|brilliant-14k-gold-midi-stud-earrings-14k-gold|variant_VGE037\/4|14k Gold|
+524|Allure Large Hoop Earrings|allure-large-hoop-earrings-gold-plated-silver|variant_KCD2\/20|Gold Plated Silver|
+525|Allure Medium Hoop Earrings|allure-medium-hoop-earrings-gold-plated-silver|variant_KCD2\/15|Gold Plated Silver|
+526|Allure Small Hoop Earrings|allure-small-hoop-earrings-sterling-silver|variant_KCD2\/12|Gold Plated Silver|
+527|Crossing Bold Bands Stud Earrings|crossing-bold-bands-stud-earrings-gold-plated-silver|variant_E1059|Gold Plated Silver|
+528|Crossing Bold Bands Stud Pave Earrings|crossing-bold-bands-stud-pave-earrings-sterling-silver|variant_E1060|Sterling Silver|
+529|Crossing Bold Bands Ring|crossing-bold-bands-ring-gold-plated-silver|variant_R452|Gold Plated Silver|
+530|Crossing Bold Bands Pave Ring|crossing-bold-bands-pave-ring-gold-plated-silver|variant_R453|Gold Plated Silver|
+531|Dashing Details Charm Hoop Earrings|dashing-details-charm-hoop-earrings-gold-plated-silver|variant_KC1043|Gold Plated Silver|
+532|Dashing Details Charm Pave Hoop Earrings|dashing-details-charm-pave-hoop-earrings-sterling-silver|variant_KC1044|Sterling Silver|
+533|Dashing Details Charm Pave Rope Earrings|dashing-details-charm-pave-rope-earrings-sterling-silver|variant_KC1045|Sterling Silver|
+534|Dashing Details Cocktail Ring Blue|dashing-details-cocktail-ring-blue-sterling-silver|variant_R474|Sterling Silver|
+535|Blue Dangling Ear Studs|blue-dangling-ear-studs-sterling-silver|variant_E1082|Sterling Silver|
+536|Dashing Details Necklace|dashing-details-necklace-gold-plated-silver|variant_N1113|Gold Plated Silver|
+537|Dashing Details Ring|dashing-details-ring-gold-plated-silver|variant_R475|Gold Plated Silver|
+538|Dashing Details Necklace Orange|dashing-details-necklace-orange-gold-plated-silver|variant_N1112|Gold Plated Silver|
+539|Dashing Details Pave Pendant|dashing-details-pave-pendant-sterling-silver|variant_P1096|Sterling Silver|
+540|Orange Dashing Details Pave Ring|orange-dashing-details-pave-ring-gold-plated-silver|variant_R469|Gold Plated Silver|
+541|Dashing Details Pendant|dashing-details-pendant-sterling-silver|variant_P1095|Sterling Silver|
+542|Dashing Details Ring Orange|dashing-details-ring-orange-gold-plated-silver|variant_R471|Gold Plated Silver|
+543|Dashing Details Rope Pendant|dashing-details-rope-pendant-sterling-silver|variant_P1097|Sterling Silver|
+544|Dashing Details Rope Ring|dashing-details-rope-ring-sterling-silver|variant_R473|Sterling Silver|
+545|Dashing Details Pave Necklace|dashing-pave-details-necklace-sterling-silver|variant_N1111|Sterling Silver|
+546|Dashing Details Pave Ring|dashing-details-pave-ring-sterling-silver|variant_472|Sterling Silver|
+547|Dazzling Dashing Details Ear Studs|dazzling-dashing-details-ear-studs-sterling-silver|variant_E1081|Sterling Silver|
+548|Dome Ring 14k Gold|dome-ring-14k-gold|variant_VGR042|14k Gold|
+549|Double Brilliant Stud Earrings|double-brilliant-stud-earrings-sterling-silver|variant_E1080|Sterling Silver|
+550|Engravable Coin Pendant|engravable-coin-pendant-gold-plated-silver|variant_P1057|Gold Plated Silver|
+551|Every Day Hoops|every-day-hoops-sterling-silver|variant_KC1003|Sterling Silver|
+552|Extra Maxi Pave Hoop Earrings 14k Gold|extra-maxi-pave-hoop-earrings-14k-gold|variant_VGKCK1\/25|14k Gold|
+553|Extra Maxi Polished Hoop Earrings 14k Gold|extra-maxi-polished-hoop-earrings-14k-gold|variant_VGKCL1\/25|14k Gold|
+554|Extra Mini Pave Hoop Earrings 14k Gold|extra-mini-pave-hoop-earrings-14k-gold|variant_VGKCK1\/10|14k Gold|
+555|Extra Mini Polished Hoop Earrings 14k Gold|extra-mini-polished-hoop-earrings-14k-gold|variant_VGKCL1\/10|14k Gold|
+556|Gold Bead Necklace 14k Gold|gold-bead-necklace-14k-gold|variant_VGN017|14k Gold|
+557|Halo Ear Studs|halo-ear-studs-sterling-silver|variant_E1074|Sterling Silver|
+558|Halo Necklace|halo-necklace-sterling-silver|variant_N1110|Sterling Silver|
+559|Heart of Gold Necklace 14k Gold|heart-of-gold-necklace-14k-gold|variant_VGN011|14k Gold|
+560|Icon Coin Ear Studs 14k Gold|icon-coin-ear-studs-14k-gold|variant_VGE050|14k Gold|
+561|Infinity Necklace|infinity-necklace-sterling-silver|variant_N1108|Sterling Silver|
+562|It is a Classic Pearl Ear Studs|it-is-a-classic-pearl-ear-studs-gold-plated-silver|variant_SPE03|Gold Plated Silver|
+563|It is a Classic Pearl Pendant|it-is-a-classic-pearl-pendant-gold-plated-silver|variant_SPP03YWP|Gold Plated Silver|
+564|Knot Stud Earrings 14k Gold|knot-stud-earrings-14k-gold|variant_VGE021|14k Gold|
+565|Locked Love Necklace 14k Gold|locked-love-necklace-14k-gold|variant_VGN027|14k Gold|
+566|Long Link Necklace|long-link-necklace-gold-plated-silver|variant_N1098|Gold Plated Silver|
+567|Lovely Hoop Earrings|lovely-hoop-earrings-sterling-silver|variant_KC1026|Sterling Silver|
+568|Solitaire Pendant|solitaire-pendant-sterling-silver|variant_P1092|Sterling Silver|
+569|Maxi Crossover Bold Bands Earrings|maxi-crossover-bold-bands-earrings-sterling-silver|variant_E1070|Sterling Silver|
+570|Maxi Crossover Bold Bands Ring|maxi-crossover-bold-bands-ring-gold-plated-silver|variant_R462|Gold Plated Silver|
+571|Maxi Polished Ring 14k Gold|maxi-polished-ring-14k-gold|variant_VGR047|14k Gold|
+572|Maxi Rope Hoop Earrings 14k Gold|maxi-rope-hoop-earrings-14k-gold|variant_VGKCJ|14k Gold|
+573|Maxi Triple Surface Ring 14k Gold|maxi-triple-surface-ring-14k-gold|variant_VGR048|14k Gold|
+574|Midi Rope Hoop Earrings 14k Gold|midi-rope-hoop-earrings-14k-gold|variant_VGKCJ|14k Gold|
+575|Mini Dashing Details Ear Studs|mini-dashing-detail-ear-studs-sterling-silver|variant_E1077|Sterling Silver|
+576|Mini Rope Hoop Earrings 14k Gold|mini-rope-hoop-earrings-14k-gold|variant_VGKCJ|14k Gold|
+577|Minimal Heart Ear Studs|minimal-heart-ear-studs-gold-plated-silver|variant_E1031|Gold Plated Silver|
+578|Minimal Heart Necklace|minimal-heart-necklace-sterling-silver|variant_N1030|Sterling Silver|
+579|Tube Statement Hoop Earrings|tube-statement-hoop-earrings-gold-plated-silver|variant_KCL2\/30|Gold Plated Silver|
+580|Bold Long Hoop Earrings 30mm|bold-long-hoop-earrings-30mm-gold-plated-silver|variant_KCQ2\/30|Gold Plated Silver|
+581|Tube Large Hoop Earrings|tube-large-hoop-earrings-gold-plated-silver|variant_KCL2\/20|Gold Plated Silver|
+582|Bold 2 mm Long Hoop Earrings 20 mm|bold-2-mm-long-hoop-earrings-20-mm-sterling-silver|variant_KCQ2\/20|Sterling Silver|
+583|Tube Medium Hoop Earrings|tube-medium-hoop-earrings-gold-plated-silver|variant_KCL2\/15|Gold Plated Silver|
+584|Tube Oversized Hoop Earrings|tube-oversized-hoop-earrings-gold-plated-silver|variant_KCL2\/40|Gold Plated Silver|
+585|Open Your Heart Pendant|open-your-heart-pendant-sterling-silver|variant_P1084|Sterling Silver|
+586|Dashing Details Blue Hoop Earrings|dashing-details-blue-hoop-earrings-gold-plated-silver|variant_KC1042|Gold Plated Silver|
+587|Oval Pave Dashing Details Ear Studs|oval-pave-dashing-details-ear-studs-sterling-silver|variant_E1078|Sterling Silver|
+588|Blue Oval Pave Dashing Details Pendant|blue-oval-pave-dashing-details-pendant-gold-plated-silver|variant_P1093|Gold Plated Silver|
+589|Oval Pave Dashing Details Ring|oval-pave-dashing-details-ring-sterling-silver|variant_R470|Sterling Silver|
+590|Pave Bangle|pave-bangle-sterling-silver|variant_SBD4|Sterling Silver|
+591|Pave Bar Bracelet 14k Gold|pave-bar-bracelet-14k-gold|variant_VGB007|14k Gold|
+592|Pave Bar Stud Earrings 14k Gold|pave-bar-stud-earrings-14k-gold|variant_VGE029|14k Gold|
+593|Pave Bold Bangle|pave-bold-bangle-sterling-silver|variant_SBD6|Sterling Silver|
+594|Dangling Dashing Details Pave Earrings|dangling-dashing-details-pave-earrings-sterling-silver|variant_KC1041|Sterling Silver|
+595|Pave Circle Studs 14k Gold|pave-circle-studs-14k-gold|variant_VGE035|14k Gold|
+596|Pave Dome Ring 14k Gold|pave-dome-ring-14k-gold|variant_VGR043|14k Gold|
+597|Pave Love Hoops|pave-love-hoops-gold-plated-silver|variant_KC1025|Gold Plated Silver|
+598|Pave Oval Hoop Earrings|pave-oval-hoop-earrings-gold-plated-silver|variant_KC1048|Gold Plated Silver|
+599|Pave is Brilliant Ring|pave-is-brilliant-ring-14k-white-gold|variant_VGR019|14k White Gold|
+600|Pearl Bracelet 14k Gold|pearl-bracelet-14k-gold|variant_VGB013|14k Gold|
+601|Polished Band Ring 14k Gold|polished-band-ring-14k-gold|variant_VGR022|14k Gold|
+602|Polished Bangle|polished-bangle-sterling-silver|variant_SBA4|Sterling Silver|
+603|Polished Bar Stud Earrings 14k Gold|polished-bar-stud-earrings-14k-gold|variant_VGE030|14k Gold|
+604|Polished Bold Bangle|polished-bold-bangle-sterling-silver|variant_SBA6|Sterling Silver|
+605|Polished Circle Studs 14k Gold|polished-circle-studs-14k-gold|variant_VGE036|14k Gold|
+606|Polished Oval Hoop Earrings|polished-oval-hoop-earrings-gold-plated-silver|variant_KC1047|Gold Plated Silver|
+607|Polished Stackable Ring 14k Gold|polished-stackable-ring-14k-gold|variant_VGR010|14k Gold|
+608|Rope Bar Stud Earrings 14k Gold|rope-bar-stud-earrings-14k-gold|variant_VGE028|14k Gold|
+609|Rope Circle Studs 14k Gold|rope-circle-studs-14k-gold|variant_VGE034|14k Gold|
+610|Rope Dome Ring 14k Gold|rope-dome-ring-14k-gold|variant_VGR044|14k Gold|
+611|Rope Oval Hoop Earrings|rope-oval-hoop-earrings-sterling-silver|variant_KC1049|Sterling Silver|
+612|Rope Stackable Ring|rope-stackable-ring-gold-plated-silver|variant_R432|Gold Plated Silver|
+613|Rope Stacking Ring 14k Gold|rope-stacking-ring-14k-gold|variant_VGR008|14k Gold|
+614|Say My Name Pendant|say-my-name-pendant|variant_P1080|Gold Plated Silver|
+615|Shimmering Bold Bands Ring|shimmering-bold-bands-ring-sterling-silver|variant_R458|Sterling Silver|
+616|Shimmering Bold Bands Stud Earrings|shimmering-bold-bands-stud-earrings-gold-plated-silver|variant_E1067|Gold Plated Silver|
+617|Shiny Stacking Ring|shiny-stacking-ring-gold-plated-silver|variant_R451|Gold Plated Silver|
+618|Single Pearl Necklace 14k Gold|single-pearl-necklace-14k-gold|variant_VGN016|14k Gold|
+619|Sparkling Statement Hoop Earrings|sparkling-statement-hoop-earrings-gold-plated-silver|variant_KCK2\/30|Gold Plated Silver|
+620|Sparkling Heart Necklace|sparkling-heart-necklace-gold-plated-silver|variant_N1024|Gold Plated Silver|
+621|Sparkling Large Hoop Earrings|sparkling-large-hoop-earrings-sterling-silver|variant_KCK2\/20|Sterling Silver|
+622|Sparkling Medium Hoop Earrings|sparkling-medium-hoop-earrings-sterling-silver|variant_KCK2\/15|Sterling Silver|
+623|Sparkling Oversized Hoop Earrings|sparkling-oversized-hoop-earrings-sterling-silver|variant_KCK2\/40|Sterling Silver|
+624|Take The Stage Ring|take-the-stage-ring-gold-plated-silver|variant_R464|Gold Plated Silver|
+625|Tiny Brilliant Star Stud Earrings 14k Gold|tiny-brilliant-star-stud-earrings-14k-gold|variant_VGE043|14k Gold|
+626|Dainty Polished Stacker Ring 14k Gold|tiny-polished-stacker-ring-14k-gold||14k Gold|
+627|Tree of Life Pendant 14k Gold|tree-of-life-pendant-14k-gold|variant_VGP030|14k Gold|
+628|Triple Bold Bands Stud Earrings|triple-bold-bands-stud-earrings-sterling-silver|variant_E1063|Sterling Silver|
+629|Triple Brilliant Ring 14k Gold|triple-brilliant-ring-14k-gold|variant_VGR034|14k Gold|
+630|Triple Crossover Pave Ring|triple-crossover-pave-ring-14k-tri-color-gold|variant_VTR054|14k Tri-Color Gold|
+631|Triple Crossover Ring 14k Gold|triple-crossover-ring-14k-gold|variant_VGR053|14k Gold|
+632|Triple Polished Band Ring 14k Gold|triple-polished-band-ring-14k-gold|variant_VGR045|14k Gold|
+633|Triple Surface Brilliant Ring 14k Gold|triple-surface-brilliant-ring-14k-gold|variant_VGR059|14k Gold|
+634|Triple Surface Crossover Ring 14k Gold|triple-surface-crossover-ring-14k-gold|variant_VGR055|14k Gold|
+635|Triple Surface Necklace 14k Gold|triple-surface-necklace-14k-gold|variant_VGN022|14k Gold|
+636|Triple Surface Pendant 14k Gold|triple-surface-pendant-14k-gold|variant_VGP034|14k Gold|
+637|Triple Surface Ring 14k Gold|triple-surface-ring-14k-gold|variant_VGR046|14k Gold|
+638|It is a Classic Pearl Ring|it-is-a-classic-pearl-ring-sterling-silver|variant_SPR03|Gold Plated Silver|
+639|Maxi Pave Hoop Earrings 14k Gold|maxi-pave-hoop-earrings-14k-gold|variant_VGKCK1\/20|14k Gold|
+640|Mini Pave Hoop Earrings 14k Gold|mini-pave-hoop-earrings-14k-gold|variant_VGKCK1\/12|14k Gold|
+641|Mini Polished Hoop Earrings 14k Gold|mini-polished-hoop-earrings-14k-gold|variant_VGKCL1\/12|14k Gold|
+642|Brilliant Mini Round Ear Studs|brilliant-mini-round-ear-studs-gold-plated-silver|variant_E1021\/3|Gold Plated Silver|
+643|Daily Chain 14k Gold|daily-chain-14k-gold|variant_VGC003|14k Gold|
+644|Icon Coin and Beads Bracelet 14k Gold|icon-coin-and-beads-bracelet-14k-gold|variant_VGB016|14k Gold|
+645|Mini Dashing Details Ear Studs Orange|mini-dashing-details-ear-studs-orange-gold-plated-silver|variant_E1079|Gold Plated Silver|
+646|Mini Halo Ear Studs|mini-halo-ear-studs-sterling-silver|variant_E1052|Sterling Silver|
+647|Solitaire Ring 14k Gold|brilliant-solitaire-ring-14k-gold|variant_VGR013|14k Gold|
+648|Delicate Pave Stackable Ring 14k Gold|delicate-pave-stackable-ring|variant_VGR018|14k Gold|
+649|Halo Ring|halo-ring-sterling-silver|variant_R446|Sterling Silver|
+650|Pave Stackable Ring|pave-stackable-ring|variant_R066|Gold Plated Silver|
+651|Sparkling Long Hoop Earrings 14k Gold|sparkling-long-hoop-earrings-14k-gold|variant_VGKCP1.5\/18|14k Gold|
+652|Long Sparkling Hoop Earrings 14k Gold|long-sparkling-hoop-earrings-14k-gold|variant_VGKCP|14k Gold|
+653|Classic Link Bracelet|classic-link-bracelet-sterling-silver|variant_B042|Sterling Silver|
